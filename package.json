@@ -1,0 +1,19 @@
+{
+  "name": "wokku-astro-starter",
+  "type": "module",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "start": "HOST=0.0.0.0 PORT=$PORT node ./dist/server/entry.mjs",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/node": "^10.1.0",
+    "astro": "^6.3.1"
+  }
+}

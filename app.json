@@ -1,0 +1,15 @@
+{
+  "name": "wokku-astro-starter",
+  "description": "Bare-bones Astro SSR starter for one-click Wokku deploys",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "env": {
+    "NODE_ENV": {
+      "description": "Node environment",
+      "value": "production"
+    }
+  }
+}
