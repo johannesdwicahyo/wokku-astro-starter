@@ -1,10 +1,10 @@
 # Wokku Astro Starter
 
-Bare-bones [Astro](https://astro.build) SSR starter that deploys cleanly on Dokku via the heroku-nodejs buildpack — one-click deployable from [Wokku](https://wokku.cloud).
+Bare-bones [Astro](https://astro.build) SSR starter — one-click deployable from [Wokku](https://wokku.cloud), built automatically with nixpacks.
 
 ## Deploy on Wokku
 
-Click **Deploy** in the Wokku dashboard, paste this repo URL, and your Astro app is live in minutes on your own Dokku server.
+Click **Deploy** in the Wokku dashboard, paste this repo URL, and your Astro app is live in minutes on your own server.
 
 ## Local development
 
